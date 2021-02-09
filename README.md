@@ -6,7 +6,7 @@
   [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/fmlddu645fmfbxo6z10moaydusi=fmlddu645fmfbxo6z10moaydu)
 
  I'm mainly a frontend developer but i enjoy doing other stuff too! 💻
-I mostly use Vue.js & Tailwind.css for my projects and are two frameworks that i truly love.
+I mostly use Vue.js & Tailwind.css for my projects, great UI & UX are a passion of mine.
 
 ### /* Thank you for visiting my profile! :) */
 </div>
