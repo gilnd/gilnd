@@ -5,7 +5,7 @@
  * hello function
  * @return personal info about me and stuff i like
  */
-hello(){
+const hello = () => {
   return {
     name: 'Gil',
     address: 'Turin, Italy',
