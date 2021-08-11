@@ -2,8 +2,7 @@
 # ```Hi there, 👋```
 ```javascript
 /**
- * hello function
- * @return personal info about me and stuff i like
+ * @return info
  */
 const hello = () => {
   return {
@@ -12,7 +11,7 @@ const hello = () => {
     desc: 'im a frontend / creative dev passionate about interactive experiences.',
     tech: ['javascript', 'three.js', 'vue', 'tailwindcss'],
     passions: ['opensource', 'coding', 'ui & ux', 'design'],
-    musicTastes: [ 'indie/rock', 'eletronica', 'pop', 'lofi' ]
+    music: [ 'indie/rock', 'eletronica', 'pop', 'lofi' ]
   } 
 }
 
