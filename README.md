@@ -11,7 +11,7 @@ const hello = () => {
     desc: 'im a frontend / creative dev passionate about interactive experiences.',
     tech: ['javascript', 'three.js', 'vue', 'tailwindcss'],
     passions: ['opensource', 'coding', 'ui & ux', 'design'],
-    music: [ 'indie/rock', 'eletronica', 'pop', 'lofi' ]
+    music: [ 'indie/rock', 'eletronica', 'techno', 'pop', 'lofi' ]
   } 
 }
 
